@@ -8,6 +8,8 @@ public class AppiumTest {
 	public void dsd() {
 		System.out.println("sdfgsdfgsdfgsdfgsdfgsdfgerstgsfghsdfgh");
 		System.out.println("lmao");
+		System.out.println("xdxdxdxd");
+		System.out.println("asdajskhdkasd");
 
 	}
 
