@@ -16,4 +16,8 @@ public class AppiumTest {
 	public void lmao() {
 		System.out.println("adsfgsdfg");
 	}
+	@Test
+	public void pff() {
+		System.out.println("sdfgsdfg");
+	}
 }
