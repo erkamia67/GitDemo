@@ -13,6 +13,8 @@ public class AppiumTest {
 		System.out.println("fdsgjkhdfgklhdfljghdfgh");
 		System.out.println("dfkgljhdfklgjhdfkghdfgh");
 		System.out.println("dfsgsdfgsdfgsdfgsdfgdsfgsdfgsdf");
+		System.out.println("dskfgsdkfjgsdfg");
+		System.out.println("lmao xd hahaa");
 
 	}
 
